@@ -2,8 +2,8 @@
 
 ## Índice
 
-* [1. Resumen del proyecto](#2-resumen-del-proyecto)
-* [2. Evaluación](#7-evaluación)
+* [1. Resumen del proyecto](#1-resumen-del-proyecto)
+* [2. Habilidades técnicas](#2-habilidades-técnicas)
 
 ***
 
